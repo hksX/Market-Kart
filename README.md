@@ -1,6 +1,6 @@
 **🛒 MARKET KART - E-Commerce Website**
 
-This project is a **fully functional online store** built with **PHP, HTML, CSS, and JavaScript**.  
+This project is a **fully functional online store** built with **HTML, CSS, and JavaScript**.  
 
 **Features**
 
